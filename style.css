@@ -10,12 +10,15 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 
 }
 
 .mynav-Logo{
 height: 50px;
 width: 100px;
+background-size: cover;
+background-image: url(amazon_logo.png);
 }
 
 .MyLogo{
@@ -76,4 +79,32 @@ font-size: 0.85rem;
     background-color: yellow;
     font-size: 1.2rem;
 
+}
+
+.mynav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.panel{
+    height: 40px;
+    display: flex;
+    background-color: #222f3d;
+    color: white;
+    align-items: center;
+    justify-content:space-evenly;
+
+}
+
+.panel-ops p{
+    display: inline;
+}
+
+.panel-ops{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panel-deals{
+    font-size: 0.9 rem;
+    font-weight: 700;
 }
