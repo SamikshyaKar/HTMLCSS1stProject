@@ -108,3 +108,28 @@ font-size: 0.85rem;
     font-size: 0.9 rem;
     font-weight: 700;
 }
+
+.foot-panel3{
+
+color: white;
+background-color: #222f3d;
+justify-content: center;
+align-items: center;
+height: 70px;
+display: flex;
+border-top: 0.5px solid white;
+
+
+}
+.foot-panel1{
+
+    color: white;
+    background-color: #37475a;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    display: flex;
+    font-size: 0.85rem;
+    
+    
+    }
