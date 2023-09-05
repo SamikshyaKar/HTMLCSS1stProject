@@ -19,6 +19,7 @@ height: 50px;
 width: 100px;
 background-size: cover;
 background-image: url(amazon_logo.png);
+
 }
 
 .MyLogo{
@@ -26,6 +27,7 @@ background-image: url(amazon_logo.png);
     background-image: url("amazon_logo.png");
     width: 100px;
     background-size: cover;
+   
 }
 .myborder{
     border: 1.5px solid transparent;
