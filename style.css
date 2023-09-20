@@ -200,5 +200,15 @@ border-top: 0.5px solid white;
     .foot-panel4{
         color: white;
         background-color: #0f1111;
+        height: 100px;
     }
    
+    .pages{
+        font-size: 0.7rem;
+        text-align: center;
+    }
+
+    .copyright{
+        font-size: 0.7rem;
+        text-align: center;
+    }
