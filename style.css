@@ -61,6 +61,7 @@ span{
 }
 .nav-cart{
     font-size: 0.85rem;
+    font-weight: 700;
 }
 
 .mynav-search{
@@ -69,6 +70,10 @@ span{
     width: 620px;
     height: 40px;
     border-radius: 4px;
+}
+
+.mynav-search:hover{
+    border: 2px solid orange
 }
 
 .serach-select{
