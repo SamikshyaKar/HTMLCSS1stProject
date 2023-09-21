@@ -41,12 +41,26 @@ font-size: 0.85rem;
 }
 .myadd-second{
     font-size: 1 rem;
+    color: aliceblue;
 
 }
 .myadd-icon{
     display: flex;
     align-items: center;
 
+}
+span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-weight: 700;
+    font-size: 0.75rem;
+}
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
 }
 
 .mynav-search{
