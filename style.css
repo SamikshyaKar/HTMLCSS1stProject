@@ -229,6 +229,10 @@ border-top: 0.5px solid white;
         height: 100px;
         text-align: center;
         padding-top: 25px;
+        font-size: 0.7rem;
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
     }
    
     .pages{
